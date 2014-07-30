@@ -6,6 +6,9 @@
 # Folders
 _obj
 _test
+littlegopher
+release
+dockser
 
 # Architecture specific extensions/prefixes
 *.[568vq]
